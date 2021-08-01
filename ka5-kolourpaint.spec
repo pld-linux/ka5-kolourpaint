@@ -44,6 +44,14 @@ tasks.
 Features: Support for drawing various shapes - lines, rectangles,
 rounded rectangles, ovals and polygons.
 
+%description -l pl.UTF-8
+KolourPaint jest prostym programem do szybkiego tworzenia
+rastrowych obrazków. Jest przydatny do retuszowania i prostych
+zadań edycji obrazków.
+
+Właściwości: Wsparcie dla rysowania różnych kształtów - linii,
+prostokątów, zaokrąglonych prostokątów, owali i wieloboków.
+
 %prep
 %setup -q -n %{kaname}-%{version}
 
