@@ -17,7 +17,7 @@ BuildRequires:	Qt5PrintSupport-devel
 BuildRequires:	Qt5Widgets-devel
 BuildRequires:	cmake >= 2.8.12
 BuildRequires:	gettext-devel
-BuildRequires:	ka5-libksane >= %{kdeappsver}
+BuildRequires:	ka5-libksane-devel >= %{kdeappsver}
 BuildRequires:	kf5-extra-cmake-modules >= %{kframever}
 BuildRequires:	kf5-kdelibs4support-devel >= %{kframever}
 BuildRequires:	kf5-kdoctools-devel >= %{kframever}
